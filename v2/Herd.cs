@@ -3,7 +3,7 @@
     Caetano 
     3/23/19
     Caetano
-    Class for bison behavior
+    Class for herd of bison
     Functions in file:
         GetNearbyObjects: In, agent - Out, list of nearby objects not ignored by bison
         .SquareAvoidanceRadius: Out, the square of the avoidance radius
